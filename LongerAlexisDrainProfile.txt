@@ -1,5 +1,5 @@
 About me:
-👋Hello, I'm a software engineer and web game developer. He/They
+👋Hello, I'm a software engineer and web game developer. Any pronouns.
 
 🌱I worked in tech since I was in middle school. Made 15 Unity web games and 2 VR games as a hobby. Now I'm dabbling in front-end engineering.
 
