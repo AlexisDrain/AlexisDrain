@@ -1,0 +1,24 @@
+About me:
+👋Hello, I'm a software engineer and web game developer. He/They
+
+🌱I worked in tech since I was in middle school. Made 15 Unity web games and 2 VR games as a hobby. Now I'm dabbling in front-end engineering.
+
+📞As of 2024, I'm looking for a software engineering role.
+
+✅Skills:
+Unity, C#, Javascript, GitHub.
+
+🧑‍💻Portfolio:
+Future AI stuff
+
+💻Browser extensions:
+- Less Addictive YouTube
+- IMDb sorter
+
+🕹️Latest video games:
+- https://alexclay.itch.io/ - My full portfolio of 17 Web games and 2 VR games
+- 9 Cam - A 3D puzzle platformer reminiscent of 90s tank control horror games.
+
+🥽Latest VR games:
+- Blue Vortex
+- Blue Chasm
