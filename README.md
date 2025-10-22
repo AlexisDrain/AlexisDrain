@@ -16,7 +16,7 @@
 - Most of my games have their source-code released in [here.](https://github.com/AlexisDrain?tab=repositories)  
 
 <a href="https://www.youtube.com/watch?v=gQtmXqx_vE4">
-  <img width="1280" height="735" alt="thumbnail2" 
+  <img width="640" height="368" alt="thumbnail2" 
        src="https://github.com/user-attachments/assets/42fb21ae-79f3-478a-a648-8f68ae44ceb1" />
 </a>
 
