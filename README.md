@@ -1,7 +1,7 @@
 # Alexis Clay Drain
 👋 Hello, I'm a software engineer and web game developer. Any pronouns.  
 
-🌱 I have worked in tech since I was in middle school. Made 19 Unity web games, 2 VR games, and 1 Steam game as a hobby. Now I'm dabbling in front-end engineering.  
+🌱 I have worked in tech since I was in middle school. Made 19 Unity web games, 2 VR games, and 2 Steam games as a hobby. Now I'm dabbling in front-end engineering.  
 
 📞 As of 2026, I'm looking for a software engineering role in modern JavaScript or Unity.  
 
