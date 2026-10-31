@@ -7,7 +7,7 @@
 
 # My software projects  
 - [Sleep Journal](https://github.com/AlexisDrain/SleepJournal), a local-first sleep diary with two-way sync to your own Google Sheet (React Native, Expo, SQLite). [Web](https://sleep-journal.expo.app), iOS, and Android.  
-- [Recommendation Journal](https://github.com/AlexisDrain/Recommendation-Journal/), a local-first journal for media recommendations from friends. (React Native, Expo, SQLite). [Web](https://recommendation-journal.expo.app/), iOS, and Android.  
+- [Recommendation Journal](https://github.com/AlexisDrain/Recommendation-Journal/), a local-first journal for media recommendations from friends (React Native, Expo, SQLite). [Web](https://recommendation-journal.expo.app/), iOS, and Android.  
 - [AI Reddit Curator](https://github.com/AlexisDrain/ai-reddit-curator), a custom Reddit homepage website that utilizes AI to rank posts. [Web](https://alexisdrain.github.io/ai-reddit-curator/) and Android  
 - [Less Addictive Youtube](https://github.com/AlexisDrain/Less-Addictive-YouTube), my 140 star browser extension to make YouTube less addictive.  
 - [IMDb Sort Episodes By Rating](https://github.com/AlexisDrain/IMDb-Sort-Episodes-By-Rating), an IMDb browser extension for sorting episodes by rating.  
