@@ -1,9 +1,9 @@
 # Alexis Clay Drain
-👋 Hello, I'm a software engineer and web game developer.  
+👋 Hello, I'm a software engineer building cross-platform apps, browser extensions, and web games. I'm a Lead Unity Developer at Trimond Studios (*Life Death Exit*, Steam + console).
 
-🌱 I have worked in tech since I was in middle school. Made 20 Unity web games, 2 VR games, and 2 Steam games as a hobby. Now I'm dabbling in front-end engineering.  
+🌱 I have worked in tech since I was in middle school. Made 20 Unity web games, 2 VR games, and 2 Steam games.
 
-📞 As of 2026, I'm looking for a software engineering role in modern JavaScript or Unity.  
+💼 Open to software engineering roles (TypeScript, React Native, Python).
 
 # My software projects  
 - [Sleep Journal](https://github.com/AlexisDrain/SleepJournal), a local-first sleep diary with two-way sync to your own Google Sheet. [Web](https://sleep-journal.expo.app), iOS, and Android.  
