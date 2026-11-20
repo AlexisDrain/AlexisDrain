@@ -3,7 +3,7 @@
 
 🌱 I have worked in tech since I was in middle school. Made 20 Unity web games, 2 VR games, and 2 Steam games.
 
-💼 Open to software engineering roles (TypeScript, React Native, Python).
+💼 Open to software engineering roles (Python, React Native, TypeScript).
 
 # My software projects  
 - [Sleep Journal](https://github.com/AlexisDrain/SleepJournal), a local-first sleep diary with two-way sync to your own Google Sheet. [Web](https://sleep-journal.expo.app), iOS, and Android.  
